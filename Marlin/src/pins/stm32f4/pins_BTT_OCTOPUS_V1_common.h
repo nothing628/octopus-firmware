@@ -235,9 +235,9 @@
 //
 // Heaters / Fans
 //
-#define HEATER_BED_PIN                      PA1   // Hotbed
+#define HEATER_BED_PIN                      PA3   // Hotbed
 #define HEATER_0_PIN                        PA2   // Heater0
-#define HEATER_1_PIN                        PA3   // Heater1
+#define HEATER_1_PIN                        PA1   // Heater1
 #define HEATER_2_PIN                        PB10  // Heater2
 #define HEATER_3_PIN                        PB11  // Heater3
 
