@@ -86,9 +86,10 @@
 // @section machine
 
 /*
- *  BOARD_BTT_OCTOPUS_V1_0
- *  BOARD_BTT_OCTOPUS_V1_1
- *  BOARD_BTT_OCTOPUS_PRO_V1_0
+ * BOARD_BTT_OCTOPUS_V1_0
+ * BOARD_BTT_OCTOPUS_V1_1
+ * BOARD_BTT_OCTOPUS_PRO_V1_0
+ * BOARD_BTT_OCTOPUS_PRO_V1_1
  */
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
